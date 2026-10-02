@@ -1,5 +1,5 @@
 Route_ID,User_ID,Sequence,Total_Duration,Total_Cost,Weather,Traffic_Level,Crowd_Density,Event_Impact,Optimal_Route_Preference,Satisfaction_Score,Age,Gender,Nationality,Travel_Companions,Budget_Category,Preferred_Theme,Preferred_Transport
-1,23,42->32->48->20->29->9,466,1541,Sunny,Medium,Low,Festival,9->20->29->32->42->48,2,61,Other,USA,Family,Low,Relaxation,Taxi
+1,23,42->32->48->20->29->9,466,1541,Rainy,Medium,Low,Festival,9->20->29->32->42->48,2,61,Other,USA,Family,Low,Relaxation,Taxi
 2,124,7->44->43->50->30,151,3817,Rainy,High,High,Festival,7->30->43->44->50,4,18,Male,India,Group,High,Shopping,Bus
 3,135,27->3->32->28->2->36->31,559,8087,Rainy,Low,High,None,2->3->27->28->31->32->36,4,68,Male,USA,Group,Medium,Shopping,Walk
 4,86,38->2->20->19->40->39->29,159,2218,Snowy,Medium,High,Festival,2->19->20->29->38->39->40,4,38,Female,USA,Friends,Low,Adventure,Car
